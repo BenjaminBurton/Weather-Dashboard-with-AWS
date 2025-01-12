@@ -78,3 +78,7 @@ Implement data visualization
 Add more cities
 Create automated testing
 Set up CI/CD pipeline
+
+
+Credit goes to the creators of this repo:
+Ifeanyi Otuonye, Alicia Ahl,  Kathryn (Kat) Jones, DeShae Lyda
